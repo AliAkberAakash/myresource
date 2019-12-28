@@ -1,4 +1,4 @@
-# UI/UX Design Resource Collections
+# Tutorials and Resource Collections
 
 ### Wireframing resources
 - [Sketchsheet](https://sketchsheets.com/)
@@ -10,5 +10,8 @@
 
 ### mySQL Tutorial
 - [An introduction to queries](https://www.digitalocean.com/community/tutorials/introduction-to-queries-mysql)
+
+### Android Tutorial
+- [RecyclerView with DiffUtils - reywenderlich.com] (https://www.raywenderlich.com/272-intermediate-recyclerview-tutorial-with-kotlin)
 
 ## Please give this [Repository](https://github.com/AliAkberAakash/resource-collections) a star to show ur appreciation <3
