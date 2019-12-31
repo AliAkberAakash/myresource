@@ -13,6 +13,7 @@
 
 ### Android Tutorial
 - [RecyclerView with DiffUtils - reywenderlich.com](https://www.raywenderlich.com/272-intermediate-recyclerview-tutorial-with-kotlin)
+- [Spinkit - A Progressbar library](https://www.dreamstime.com/royalty-free-stock-image-ink-splash-illustration-image8121876)
 
 ## Laravel tutorial
 - [Installing Laravel](https://www.youtube.com/watch?v=eD4yMI-IR8g&list=PLpzy7FIRqpGC8Jk6gyWdSVdxCVXZAsenQ&fbclid=IwAR1vx1PoCvH6rohglOVZ3my1ydX6lhfoCg3zyQ4JJHfzNKAMF_YYhChBZ6M)
