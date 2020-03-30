@@ -15,7 +15,10 @@
 - [RecyclerView with DiffUtils - reywenderlich.com](https://www.raywenderlich.com/272-intermediate-recyclerview-tutorial-with-kotlin)
 - [Spinkit - A Progressbar library](https://www.dreamstime.com/royalty-free-stock-image-ink-splash-illustration-image8121876)
 
-## Laravel tutorial
+### Laravel Tutorial
 - [Installing Laravel](https://www.youtube.com/watch?v=eD4yMI-IR8g&list=PLpzy7FIRqpGC8Jk6gyWdSVdxCVXZAsenQ&fbclid=IwAR1vx1PoCvH6rohglOVZ3my1ydX6lhfoCg3zyQ4JJHfzNKAMF_YYhChBZ6M)
+
+### Dart Tutorial
+- [Parsing Json - An online tool to parse json](https://app.quicktype.io/)
 
 ## Please give this [Repository](https://github.com/AliAkberAakash/resource-collections) a star to show ur appreciation <3
